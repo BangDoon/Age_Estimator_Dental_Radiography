@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 </span>
 
-<br/>
+</br>
 
 I created an age estimation program using panoramic dental images with the Python GUI library, Tkinter.
 
