@@ -13,6 +13,7 @@
 </span>
 
 </br>
+</br>
 
 I created an age estimation program using panoramic dental images with the Python GUI library, Tkinter.
 
